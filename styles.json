@@ -1,0 +1,160 @@
+{
+    "QWidget": {
+        "background-color": "#FAFAFA",
+        "font-family": "Arial, sans-serif",
+        "color": "#333333"
+    },
+    "QTableCornerButton::section": {
+        "background-color": "#F5F5F5",
+        "border": "1px solid #E0E0E0"
+    },
+    "QTableWidget QHeaderView::section": {
+        "background-color": "#E8F5E9",
+        "color": "#333333",
+        "padding": "5px",
+        "font-weight": "bold",
+        "border": "1px solid #E0E0E0"
+    },
+    "QTableWidget QHeaderView::section:hover": {
+        "background-color": "#E8F5E9"
+    },
+    "QTableWidget::item:selected": {
+        "background-color": "#C8E6C9",
+        "color": "#111111"
+    },
+    "QTableWidget::item:hover": {
+        "background-color": "#E8F5E9"
+    },
+    "QScrollBar:vertical": {
+        "width": "10px",
+        "border": "none",
+        "background": "#F5F5F5"
+    },
+    "QScrollBar::handle:vertical": {
+        "background": "#E0E0E0",
+        "min-height": "20px",
+        "border-radius": "5px"
+    },
+    "QScrollBar::add-line:vertical": {
+        "background": "none"
+    },
+    "QScrollBar::sub-line:vertical": {
+        "background": "none"
+    },
+    "QScrollBar::add-page:vertical": {
+        "background": "none"
+    },
+    "QScrollBar::sub-page:vertical": {
+        "background": "none"
+    },
+    "QPushButton": {
+        "background-color": "#F5F5F5",
+        "color": "#333333",
+        "border-radius": "5px",
+        "font-size": "14px",
+        "padding": "10px",
+        "border": "1px solid #E0E0E0"
+    },
+    "QPushButton:hover": {
+        "background-color": "#E8F5E9"
+    },
+    "QPushButton:disabled": {
+        "background-color": "#F5F5F5",
+        "color": "#B0BEC5",
+        "border": "1px solid #E0E0E0"
+    },
+    "QPushButton::menu-indicator": {
+        "subcontrol-position": "bottom right",
+        "width": "15px",
+        "height": "15px"
+    },
+    "QComboBox": {
+        "background-color": "#FFFFFF",
+        "color": "#333333",
+        "border-radius": "5px",
+        "font-size": "14px",
+        "padding": "5px",
+        "border": "1px solid #E0E0E0"
+    },
+    "QComboBox:hover": {
+        "background-color": "#E8F5E9",
+        "border": "1px solid #BDBDBD"
+    },
+    "QComboBox:disabled": {
+        "background-color": "#FFFFFF",
+        "color": "#B0BEC5",
+        "border": "1px solid #E0E0E0"
+    },
+    "QComboBox QAbstractItemView": {
+        "background-color": "#FFFFFF",
+        "color": "#333333",
+        "border": "1px solid #E0E0E0",
+        "selection-background-color": "#E8F5E9"
+    },
+    "QMenu": {
+        "background-color": "#FFFFFF",
+        "border-radius": "5px",
+        "border": "1px solid #E0E0E0"
+    },
+    "QMenu::item": {
+        "background-color": "transparent",
+        "color": "#333333",
+        "padding": "5px 15px"
+    },
+    "QMenu::item:selected": {
+        "background-color": "#E8F5E9"
+    },
+    "#SidebarContent": {
+        "background-color": "#F5F5F5",
+        "border-radius": "8px",
+        "padding": "12px",
+        "border": "1px solid #E0E0E0"
+    },
+    "QLabel": {
+        "background-color": "#ffffff",
+        "color": "#333333"
+    },
+    "QSpinBox": {
+        "background-color": "#FFFFFF",
+        "color": "#333333",
+        "border": "1px solid #E0E0E0",
+        "border-radius": "5px",
+        "padding": "2px"
+    },
+    "QDoubleSpinBox": {
+        "background-color": "#FFFFFF",
+        "color": "#333333",
+        "border": "1px solid #E0E0E0",
+        "border-radius": "5px",
+        "padding": "2px"
+    },
+    "QDialog": {
+        "background-color": "#FAFAFA"
+    },
+    "QDialogButtonBox QPushButton": {
+        "background-color": "#F5F5F5",
+        "color": "#333333",
+        "border": "1px solid #E0E0E0",
+        "padding": "5px 15px",
+        "min-width": "60px"
+    },
+    "QDialogButtonBox QPushButton:hover": {
+        "background-color": "#E8F5E9"
+    },
+    "QDialogButtonBox QPushButton:disabled": {
+        "background-color": "#F5F5F5",
+        "color": "#B0BEC5",
+        "border": "1px solid #E0E0E0"
+    },
+    "QProgressDialog": {
+        "background-color": "#FAFAFA",
+        "color": "#333333",
+        "border": "1px solid #E0E0E0",
+        "border-radius": "5px"
+    },
+    "QWebEngineView": {
+        "background-color": "#FAFAFA",
+        "border": "1px solid #E0E0E0",
+        "border-radius": "5px"
+    }
+}
